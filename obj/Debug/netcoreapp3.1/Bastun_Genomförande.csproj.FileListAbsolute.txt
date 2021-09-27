@@ -1,0 +1,13 @@
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\bin\Debug\netcoreapp3.1\Bastun_Genomförande.exe
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\bin\Debug\netcoreapp3.1\Bastun_Genomförande.deps.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\bin\Debug\netcoreapp3.1\Bastun_Genomförande.runtimeconfig.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\bin\Debug\netcoreapp3.1\Bastun_Genomförande.runtimeconfig.dev.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\bin\Debug\netcoreapp3.1\Bastun_Genomförande.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\bin\Debug\netcoreapp3.1\Bastun_Genomförande.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\obj\Debug\netcoreapp3.1\Bastun_Genomförande.csprojAssemblyReference.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\obj\Debug\netcoreapp3.1\Bastun_Genomförande.AssemblyInfoInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\obj\Debug\netcoreapp3.1\Bastun_Genomförande.AssemblyInfo.cs
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\obj\Debug\netcoreapp3.1\Bastun_Genomförande.csproj.CoreCompileInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\obj\Debug\netcoreapp3.1\Bastun_Genomförande.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\obj\Debug\netcoreapp3.1\Bastun_Genomförande.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 2\Bastun_Genomförande\obj\Debug\netcoreapp3.1\Bastun_Genomförande.genruntimeconfig.cache
